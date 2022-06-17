@@ -8,7 +8,7 @@
 $ mv hashtool.py hashtool
 $ chmod +x hashtool
 $ mkdir -p $HOME/bin
-$ export PATH = "$HOME/bin:$PATH"
+$ export PATH="$HOME/bin:$PATH"
 $ mv hashtool $HOME/bin
 ```
 
